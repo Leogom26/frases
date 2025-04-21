@@ -36,7 +36,7 @@ function App() {
       nome: "Boa noite",
       frases: [
         'Boa noite durma bem',
-        'Teste frase boa noite'
+        'Essa vai ser uma noite abençoada por Deus'
       ]
     }
   ]
